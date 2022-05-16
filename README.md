@@ -2,7 +2,7 @@
 
 Some facts about me.
 ***
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Skills](#tech-skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://jasminecheung.netlify.app/)
 
 A dedecated full-stack junior web developer who carries logical thinking to overcome challenges, wriite clean codes and build responsive apps. My background involves tremandous of decision making, team collaboration and planning works. I love programming in the way that it teaches me how to think and develop authentic life skills.  It plays an art form where people provide creative solutions to current projects in their own ways.  This is also how technology evolves.
@@ -37,7 +37,7 @@ I am currently looking to take on a career in the tech scene of London, where I 
 ### <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
-[Sportify][https://github.com/jazzc001/sportify] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][https://youtu.be/yb3-vGKO7fg] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
+[Sportify](https://github.com/jazzc001/sportify) | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/yb3-vGKO7fg) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
 [project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
 [project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
 [project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
@@ -46,7 +46,7 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 *All source code available on Github: [https://github.com/jazzc001][1]
 
 
-### <a name="skills">Education</a>
+### <a name="education">Education</a>
 
 #### Makers Academy (January 2022 to April 2022)
 Highly selective 12 week intensive coding bootcamp.
