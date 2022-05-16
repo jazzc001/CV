@@ -23,14 +23,14 @@ I am currently looking to take on a career in the tech scene of London, where I 
 
 ### <a name="soft-skills"> Soft Skills</a>
 
-- **Quick Study** - 
-- **Adaptable** - 
-- **Creative** - 
-- **Inquisitive** - 
-- **Attention to detail** -
-- **Enthusiastic** - 
-- **Team-player** - 
-- **Commitment** - 
+- **Quick Study** 
+- **Adaptable** 
+- **Creative** 
+- **Inquisitive** 
+- **Attention to detail**
+- **Enthusiastic** 
+- **Team-player** 
+- **Commitment** 
 
 ***
 
@@ -43,7 +43,7 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 
 
 
-*All source code available on Github: [https://github.com/jazzc001][1]
+*All source code available on Github: [https://github.com/jazzc001](https://github.com/jazzc001)
 
 
 ### <a name="education">Education</a>
@@ -58,7 +58,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Independent learner and problem-solver
 - Aspiration to software craftsmanship
 - Experience with MVC framework patterns
-- Final project: Make It Stop! a cross-platform native mobile alarm clock app.
+- Final project: Sportify, an exercise scheduling app with a biggest feature of automatic weather checking.
 
 #### University of Exeter (September 2012 to July 2015)
 
