@@ -5,7 +5,8 @@ Some facts about me.
 [Skills](#tech-skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://jasminecheung.netlify.app/)
 
-A dedecated full-stack junior web developer who carries logical thinking to overcome challenges, wriite clean codes and build responsive apps. My background involves tremandous of decision making, team collaboration and planning works. I love programming in the way that it teaches me how to think and develop authentic life skills.  It plays an art form where people provide creative solutions to current projects in their own ways.  This is also how technology evolves.
+A dedicated full-stack junior web developer who carries logical thinking to overcome challenges, write clean codes and build responsive apps. My background involves tremendous![image](https://user-images.githubusercontent.com/66100823/168620624-004b24aa-4677-453f-b965-f2b1067ea735.png)
+ of decision making, team collaboration and planning works. I love programming in the way that it teaches me how to think and develop authentic life skills.  It plays an art form where people provide creative solutions to current projects in their own ways.  This is also how technology evolves.
 
 Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
