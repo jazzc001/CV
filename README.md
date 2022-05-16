@@ -39,7 +39,7 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 --- | --- | --- | --- | ---
 [Sportify](https://github.com/jazzc001/sportify) | An exercise scheduling app with main features of weather checking and location tracking | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/yb3-vGKO7fg) | React.js, Node.js, Express.js, Javascript, Mongoose, Nodemon, Axios, HTML, CSS, OpenWeather API, Geocoding API, MUI, Morgan, Rechart | React Testing Library for the Front End, Jest for the Back End
 [Nachos Libro](https://github.com/jazzc001/Acebook-nacho-libro) | A clone of Facebook | [Demo](https://github.com/jazzc001/Acebook-nacho-libro/blob/main/docs/nacho_libro_timeline.gif)| JavaSript, Express, Node.js, Nodemon, Handlebars, Mongoose, ESLint  | - Jest for unit and feature test, Cypress for integration End-to-end testing
-[MakersBnB][2] | A clone of AirBnB | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9]  | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord | Rspec for both unit and feature tests
+[MakersBnB](https://github.com/jazzc001/MakersBnB) | A clone of AirBnB | [Details](https://github.com/jazzc001/MakersBnB)  | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord | Rspec for both unit and feature tests
 
 
 
