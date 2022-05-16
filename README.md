@@ -122,7 +122,7 @@ Achievements
 
 ### <a name="interests">Interests</a>
 
-- **Ruby (Currently in WASPS Amateur Team) ** 
+- **Rugby (Currently in WASPS Amateur Team) ** 
 - **Crossfit**
 
 
