@@ -9,10 +9,19 @@ A dedecated full-stack junior web developer who carries logical thinking to over
 
 Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
-I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Back End development and Architecture design.
 ***
 
-### <a name="skills">Skills</a>
+### <a name="tech-skills"> Tech Skills</a>
+
+- Ruby, Rspec, Sinatra, Capybara
+- JavaScript, Jest, Node.js, Express, React
+- HTML, CSS, Handlebars
+- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
+- Command Line, Git, GitHub
+- Travis CI
+
+### <a name="soft-skills"> Soft Skills</a>
 
 - **Quick Study** - 
 - **Adaptable** - 
@@ -28,6 +37,9 @@ I am currently looking to take on a career in the tech scene of London or Bright
 ### <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
+[Sportify][https://github.com/jazzc001/sportify] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][https://youtu.be/yb3-vGKO7fg] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
+[project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
+[project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
 [project name][2] | Description | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][9] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] | Technologies Used | Testing Technologies
 
 
@@ -56,7 +68,7 @@ BA Business Econometrics with Honours (Major in Econometrics)
 
 ### <a name="experience">Experience</a>
 
-**Tech Recruiter** (Oct 2018 to Aug2021)
+**Tech Recruiter** (Oct 2018 to Aug 2021)
 *Deployment in Nityo Infotech/Stanton House/Phaidon International*
 
 Focused on the Technology and Data Analytics side of the company. Working with technology professionals to bring talent to organisations across the Hong Kong and APAC region on a permanent and contract basis. I cover all disciplines across the Software Development Life-cycle. Typical roles I will recruit for will be as follows:
@@ -110,9 +122,9 @@ Achievements
 
 ### <a name="interests">Interests</a>
 
-- **Ruby** 
-- **Gym**
-- **Zombie Dramas**
+- **Ruby (Currently in WASPS Amateur Team) ** 
+- **Crossfit**
+
 
 
 ***
@@ -120,4 +132,4 @@ Achievements
 ### <a name="contact">Contact</a>
 - Github: [jazzc001](https://github.com/jazzc001)[1]
 - Codewars https://www.codewars.com/users/jasminec
-- Coding Blog/Site: [jasminecheung.com](https://jasminecheung.netlify.app/)
+- Professional Site: [jasminecheung.com](https://jasminecheung.netlify.app/)
