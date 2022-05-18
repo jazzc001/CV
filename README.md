@@ -130,6 +130,6 @@ Achievements
 ***
 
 ### <a name="contact">Contact</a>
-- Github: [jazzc001](https://github.com/jazzc001)[1]
+- Github: [jazzc001](https://github.com/jazzc001)
 - Codewars https://www.codewars.com/users/jasminec
 - Professional Site: [jasminecheung.com](https://jasminecheung.netlify.app/)
