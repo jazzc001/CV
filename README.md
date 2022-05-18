@@ -1,6 +1,6 @@
 # Jasmine Cheung
 
-Some facts about me.
+
 ***
 [Skills](#tech-skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://jasminecheung.netlify.app/)
