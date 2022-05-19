@@ -1,5 +1,5 @@
 # Jasmine Cheung
-***
+
 [Skills](#tech-skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://jasminecheung.netlify.app/)
 
@@ -8,7 +8,7 @@ I am a dedicated full-stack software engineer who carries logical thinking to ov
 Having recently completed an intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer with fast learning skill to quickly ramp up on new technologies and domains.
 
 I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Back End development.
-***
+
 
 ## <a name="tech-skills"> Tech Skills</a>
 
