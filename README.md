@@ -1,35 +1,33 @@
 # Jasmine Cheung
-
 ***
 [Skills](#tech-skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://jasminecheung.netlify.app/)
 
-A dedicated full-stack junior web developer who carries logical thinking to overcome challenges, write clean codes and build responsive apps. My background involves tremendous of decision making, team collaboration and planning works. I love programming in the way that it teaches me how to think and develop authentic life skills.  It plays an art form where people provide creative solutions to current projects in their own ways.  This is also how technology evolves.
+I am a dedicated full-stack software engineer who carries logical thinking to overcome challenges, write fully tested and extensible codes as well as to build scalable apps. My backgrounds in both professional sports field and recruitment industry involve tremendous of decision making, team collaboration and planning works which built a solid ground of various soft skills including self-initiative, structural-learning and problem solving. 
 
-Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
+Having recently completed an intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer with fast learning skill to quickly ramp up on new technologies and domains.
 
-I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Back End development and Architecture design.
+I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Back End development.
 ***
 
 ### <a name="tech-skills"> Tech Skills</a>
 
-- Ruby, Rspec, Sinatra, Capybara
-- JavaScript, Jest, Node.js, Express, React
-- HTML, CSS, Handlebars
-- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
-- Command Line, Git, GitHub
-- Travis CI
+•	**Languages and Frameworks:** Ruby, Sinatra, Capybara, JavaScript, Node.js, Express, React, HTML, CSS, Handlebars
+•	**Testing Libraries:** Rspec, React Testing Library, Cypress, Jest
+•	**Database and Related Tech:** SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
+•	**Development Tech:** Command Line, Git, GitHub, Travis CI, Postman
+•	**Development Methodologies:** Agile methodologies, TDD, BDD, Object oriented programming, Systematic Debugging, Data-structures and Algorithms
+
+
 
 ### <a name="soft-skills"> Soft Skills</a>
 
-- **Quick Study** 
-- **Adaptable** 
-- **Creative** 
-- **Inquisitive** 
-- **Attention to detail**
-- **Enthusiastic** 
-- **Team-player** 
-- **Commitment** 
+•	**Team Collaborator:** Cultivated in team sports for almost 2 decades, I value effectively communication on requesting and receiving feedback.  Applying those skills in the bootcamp’s projects, I have proactively gained the feedback from teammates and listened to their approaches on certain problems which has successfully come up with agreed solutions without escalating disagreements into conflicts.
+•	**Adaptability:** Back to the time as a recruiter, I was promoted from a junior consultant to a team lead.  I managed to keep hitting my deal records whilst to coach new joiners.  Being adapted to greater responsibilities, I have expanded my pressure tank of organising workloads.  This makes the forthcoming challenges, like learning new languages and technologies, become less intimidating. 
+•	**Initiative:**  During the time in recruitment field, I took entrepreneurship on onboarding new clients consistently and converted to profitable deals which echoed business’ commercial aims.  This gave me a strong arm in Makers where we are responsible to our own learning curve and pace.
+•	**Problem Solving and Attention to detail:** Having taken one of the hardest subject, econometrics, in university, I am trained to solve the same problem with different perspectives systematically.  Following this practice, in the project Sportify, my main contribution was on setting up the server and backend codes which involves RESTful API, database modelling, packages installations and etc.  I took into account of time and space management on each code which made the app scalable and readable. 
+
+
 
 ***
 
