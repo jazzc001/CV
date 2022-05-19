@@ -59,7 +59,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Independent learner and problem-solver
 - Aspiration to software craftsmanship
 - Experience with MVC framework patterns
-- Final project: Sportify, an exercise scheduling app with a biggest feature of automatic weather checking.
+- Final project: Sportify, an exercise scheduling app with the most prominent feature of automatic weather checking.
 
 ### University of Exeter (September 2012 to July 2015)
 
