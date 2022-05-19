@@ -10,7 +10,7 @@ Having recently completed an intensive 12 weeks of [Makers Academy](https://gith
 I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Back End development.
 ***
 
-### <a name="tech-skills"> Tech Skills</a>
+## <a name="tech-skills"> Tech Skills</a>
 
 -	**Languages and Frameworks:** Ruby, Sinatra, Capybara, JavaScript, Node.js, Express, React, HTML, CSS, Handlebars
 -	**Testing Libraries:** Rspec, React Testing Library, Cypress, Jest
@@ -20,7 +20,7 @@ I am currently looking to take on a career in the tech scene of London, where I 
 
 
 
-### <a name="soft-skills"> Soft Skills</a>
+## <a name="soft-skills"> Soft Skills</a>
 
 ### **Team Collaborator** 
 Cultivated in team sports for almost 2 decades, I value effectively communication on requesting and receiving feedback.  Applying those skills in the bootcamp’s projects, I have proactively gained the feedback from teammates and listened to their approaches on certain problems which has successfully come up with agreed solutions without escalating disagreements into conflicts.
@@ -35,7 +35,7 @@ Having taken one of the hardest subject, econometrics, in university, I am train
 
 ***
 
-### <a name="projects">Projects & Code</a>
+## <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 [Sportify](https://github.com/jazzc001/sportify) | An exercise scheduling app with main features of weather checking and location tracking | [Demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png) | React.js, Node.js, Express.js, Javascript, Mongoose, Nodemon, Axios, HTML, CSS, OpenWeather API, Geocoding API, MUI, Morgan, Rechart | React Testing Library for the Front End, Jest for the Back End
@@ -47,9 +47,9 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 *All source code available on Github: [https://github.com/jazzc001](https://github.com/jazzc001)
 
 
-### <a name="education">Education</a>
+## <a name="education">Education</a>
 
-#### Makers Academy (January 2022 to April 2022)
+### Makers Academy (January 2022 to April 2022)
 Highly selective 12 week intensive coding bootcamp.
 
 - Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
@@ -61,13 +61,13 @@ Highly selective 12 week intensive coding bootcamp.
 - Experience with MVC framework patterns
 - Final project: Sportify, an exercise scheduling app with a biggest feature of automatic weather checking.
 
-#### University of Exeter (September 2012 to July 2015)
+### University of Exeter (September 2012 to July 2015)
 
 BA Business Econometrics with Honours (Major in Econometrics)
 
 ***
 
-### <a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 
 **Tech Recruiter** (Oct 2018 to Aug 2021)
 *Deployment in Nityo Infotech/Stanton House/Phaidon International*
@@ -121,7 +121,7 @@ Achievements
 - Selected in Asia Rugby Women’s Championship 2017
 - Selected in Asia Rugby Women’s Championship 2016
 
-### <a name="interests">Interests</a>
+## <a name="interests">Interests</a>
 
 - **Rugby (Currently in WASPS Amateur Team) ** 
 - **Crossfit**
@@ -130,7 +130,7 @@ Achievements
 
 ***
 
-### <a name="contact">Contact</a>
+## <a name="contact">Contact</a>
 - Github: [jazzc001](https://github.com/jazzc001)
 - Codewars https://www.codewars.com/users/jasminec
 - Professional Site: [jasminecheung.com](https://jasminecheung.netlify.app/)
