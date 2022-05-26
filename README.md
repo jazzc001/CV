@@ -79,6 +79,7 @@ BA Business Econometrics with Honours (Major in Econometrics)
 -	CI/CD on Git Actions
 -	An ongoing project which aimed to deploy on AWS EC2 and wrapped in Docker container
 
+**Technical Recruiter** (October 2018 to August 2021)
 *Deployment in Nityo Infotech/Stanton House/Phaidon International*
 
 Focused on the Technology and Data Analytics side of the company. Working with technology professionals to bring talent to organisations across the Hong Kong and APAC region on a permanent and contract basis. I cover all disciplines across the Software Development Life-cycle. Typical roles I will recruit for will be as follows:
