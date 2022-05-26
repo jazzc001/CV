@@ -79,6 +79,8 @@ BA Business Econometrics with Honours (Major in Econometrics)
 -	CI/CD on Git Actions
 -	An ongoing project which aimed to deploy on AWS EC2 and wrapped in Docker container
 
+
+
 **Technical Recruiter** (October 2018 to August 2021)
 *Deployment in Nityo Infotech/Stanton House/Phaidon International*
 
