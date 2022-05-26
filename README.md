@@ -72,7 +72,7 @@ BA Business Econometrics with Honours (Major in Econometrics)
 
 ## <a name="experience">Experience</a>
 
-### Backend Engineer (Volunteer)** (May 2022 to Now)
+### Backend Engineer (Volunteer) (May 2022 to Now)
 *[Develop for Good](https://developforgood.org/)*
 -	A project leader in EDF Hazard to run standups with volunteers in different time zones and assign tickets using Git, GitHub and Trello
 -	Responsible for setting up server, RESTAPI, MongoDB Atlas connection, testing library
@@ -81,7 +81,7 @@ BA Business Econometrics with Honours (Major in Econometrics)
 
 
 
-### Technical Recruiter** (October 2018 to August 2021)
+### Technical Recruiter (October 2018 to August 2021)
 *Deployment in Nityo Infotech/Stanton House/Phaidon International*
 
 Focused on the Technology and Data Analytics side of the company. Working with technology professionals to bring talent to organisations across the Hong Kong and APAC region on a permanent and contract basis. I cover all disciplines across the Software Development Life-cycle. Typical roles I will recruit for will be as follows:
@@ -100,7 +100,7 @@ Focused on the Technology and Data Analytics side of the company. Working with t
 
 Our approach is based on getting close to our customers so that we fully understand their requirements and can deliver the right solution. We believe that the recruitment process works much more effectively if we build trusting relationships with candidates and clients alike.
 
-**Analyst (Internship)** (January 2018 to Sep 2018)    
+### Analyst (Internship) (January 2018 to Sep 2018)    
 *Deloitte*  
 
 Management Information Reporting: 
@@ -120,7 +120,7 @@ Staff Allocation Planning:
 - Regularly communicate staff availability to practice leadership, including forecasted periods of under and over utilization
 - Provide decision support to staff allocation planning
 
-**Senior Women Rugby XV - HK Team Representitive** (2015 to 2020)    
+### Senior Women Rugby XV - HK Team Representitive (2015 to 2020)    
 *Hong Kong Rugby Union*  
 
 Achievements
